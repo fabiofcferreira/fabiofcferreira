@@ -14,10 +14,6 @@ I craft premium performance-focused applications.
 </p>
 
 ## Get in touch
-<a href="https://twitter.com/fabiofcferreira">
-  <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 <a href="https://t.me/fabiofcferreira">
   <img align="left" alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
