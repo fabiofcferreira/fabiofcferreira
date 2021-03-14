@@ -4,7 +4,7 @@ I'm a freelance full-stack developer from Portugal.
 I craft premium performance-focused applications.
 
 - :computer: I’m currently working freelance and I am available for [hire](https://fabioferreira.dev/hire).
-- :speech_balloon: Ask me about **Nuxt**, **Golang** and **React**.
+- :speech_balloon: Ask me about **Nuxt**, **Golang**, **React** and **Node**.
 - :mailbox: Reach me at me@fabioferreira.dev
 - ⚡ Fun fact: I'm a weather and aviation enthusiast
 - :page_facing_up: [Resume](https://fabioferreira.dev/resume.pdf)
