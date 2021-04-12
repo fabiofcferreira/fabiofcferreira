@@ -1,9 +1,9 @@
 # Hi! :wave: I'm Fábio.
 
-I'm a freelance full-stack developer from Portugal.
+I'm a full-stack developer from Portugal.
 I craft premium performance-focused applications.
 
-- :computer: I’m currently working freelance and I am available for [hire](https://fabioferreira.dev/hire).
+- :computer: I’m currently working at [Threads Styling](https://github.com/threadsstyling).
 - :speech_balloon: Ask me about **Nuxt**, **Golang**, **React** and **Node**.
 - :mailbox: Reach me at me@fabioferreira.dev
 - ⚡ Fun fact: I'm a weather and aviation enthusiast
