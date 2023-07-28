@@ -10,7 +10,7 @@ I craft premium performance-focused applications.
 - :page_facing_up: [Resume](https://fabioferreira.dev/resume.pdf)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fabiofcferreira&theme=radical" alt="stats" />
+  <img src="https://github-stats-fabiofcferreira.vercel.app/api?username=fabiofcferreira&theme=radical&show_icons=true&count_private=true&custom_title=My%20GitHub%20Stats" />
 </p>
 
 ## Get in touch
